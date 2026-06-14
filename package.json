@@ -1,0 +1,13 @@
+{
+  "name": "shiroko-bot-wa",
+  "version": "1.0.0",
+  "description": "Bot anti spam link x ban",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "pino": "^8.17.0"
+  }
+}
